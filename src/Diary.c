@@ -134,7 +134,7 @@ void login(){
 
     if(isUserMatch){
         printf("login successfully!\n\n");
-        WriteFile("D:\\workspace\\C\\aaa.txt");
+        WriteFile("D:\\workspace\\C\\test.txt");
 
     }else{
         printf("Incorrect user name!\n");
